@@ -24,17 +24,17 @@
         <EditText
             android:id="@+id/edtxt_note_description"
             android:layout_width="match_parent"
-            android:layout_height="match_parent"
+            android:layout_height="0dp"
             android:layout_margin="10dp"
             android:hint="@string/enter_note_description"
-            android:inputType="textImeMultiLine"
-            android:singleLine="false"
+            android:inputType="textMultiLine"
             android:textColor="@color/white"
+            android:gravity="start|top"
             android:textColorHint="@color/white"
-            app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintBottom_toTopOf="@id/btn_add_update"
             app:layout_constraintTop_toBottomOf="@id/edtxt_note_title"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
             tools:layout_editor_absoluteX="10dp" />
 
     <Button
