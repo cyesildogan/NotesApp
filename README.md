@@ -1,8 +1,8 @@
 # Notes App
 
-<img src="https://github.com/cyesildogan/NotesApp/blob/main/screenshot.png" width="100" height="100">
-<img src="https://github.com/cyesildogan/NotesApp/blob/main/2.png" width="100" height="100">
-<img src="https://github.com/cyesildogan/NotesApp/blob/main/3.png" width="100" height="100">
+<img src="https://github.com/cyesildogan/NotesApp/blob/main/screenshot.png" width="500" height="500">
+<img src="https://github.com/cyesildogan/NotesApp/blob/main/2.png" width="500" height="500">
+<img src="https://github.com/cyesildogan/NotesApp/blob/main/3.png" width="500" height="500">
 
 ## Used Technologies
 
